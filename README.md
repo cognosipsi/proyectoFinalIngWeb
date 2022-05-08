@@ -1,8 +1,7 @@
 # proyectoFinalIngWeb
 
+Autora: Valentina San Martín
 
-Integrantes:
+Funcionalidades:
 
-  -Pablo Vidal
-  -Sebastián Orellana
-  -Valentina San Martín
+  -
