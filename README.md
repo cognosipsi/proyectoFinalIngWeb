@@ -24,4 +24,5 @@ Instrucciones para ejecución:
 
 Funcionalidades:
 
-  -
+  -Agregar y editar comentario.
+  -Reportar spam en la sección de comentarios.
