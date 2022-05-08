@@ -26,3 +26,5 @@ Funcionalidades:
 
   -Agregar y editar comentario.
   -Reportar spam en la sección de comentarios.
+  
+Link de interfaces de usuario: https://www.figma.com/file/sFTHmjoCmXoUec9C671P64/uiProyectoWeb?node-id=0%3A1
