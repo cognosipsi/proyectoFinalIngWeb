@@ -17,7 +17,7 @@ Instrucciones para instalación de Node.js y Angular:
 Instrucciones para ejecución:
 
 1. npm install
-2. ng serve --open
+2. npm run start
    *En caso de que el puerto se encuentre ocupado, cambiar de puerto.
     Ej.: ng serve --port 31001 --open (para cambiar al puerto 31001)
 
