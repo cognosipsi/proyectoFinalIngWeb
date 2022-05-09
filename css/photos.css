@@ -1,0 +1,34 @@
+section{
+    margin:20px;
+    font-size:22px;
+}
+section img{
+    width:95%;
+}
+#tags{
+    font-size:15px;
+
+}
+#tags a{
+    margin:20px;
+    text-decoration: none;
+    color:black;
+}
+section.description{
+    text-align: center;
+}
+#tags ul{
+    list-style-type: none;
+}
+
+#tags{
+    float:right;
+    margin-right: 100px;
+}
+
+#tags ul li{
+    float:left;
+    background-color: beige;
+    margin: 1px;
+    padding:10px;
+}
