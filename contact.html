@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Contactenos</title>
+        <meta name="description" content="pagina de contactenos">
+        <meta name="keywords" content="contactenos,ecommerce">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--hojas de estilo-->
+        <link rel="stylesheet"  href="css/reset.css" type="text/css"/>
+        <link rel="stylesheet"  href="css/main.css" type="text/css"/>
+        <link rel="stylesheet"  href="css/base.css" type="text/css"/>
+        <link rel="stylesheet"  href="css/contact.css" type="text/css"/>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+       rel="stylesheet">
+        <link rel="stylesheet" href="css/icons.css" type="text/css"/>
+ 
+
+
+    </head>
+    <body>
+        <header><h1>EcoPYME</h1></header>
+        <nav>
+            <ul id="menu"> 
+                <li class="visited"><a href="#" title="inicio">Inicio</a></li>
+                <li><a href="goal.html" title="meta">Nuestra meta</a></li>
+                <li><a href="solutions.html" title="soluciones">¿Cómo ayudar?</a></li>
+                <li><a href="community.html" title="comunidad">Comunidad</a></li>
+                <li><a href="contact.html" title="contactenos">Contáctenos</a></li>
+            </ul>
+            <div id="searchbar">
+                  <form method="POST">
+                       <input type="search" autocomplete="address-level1" placeholder="Buscador" />
+                  </form>
+            </div>
+        </nav>
+
+         <section id="contact">
+                <form  method="POST">
+                    <ul class="form">
+                         <li>
+                          <label for="nombrecompleto">Nombre Completo</label>
+                          <input type="tel" class="form-control" id="nombrecompleto" placeholder="Nombre Completo" maxlength="9" required>
+                         </li>
+                         <li>
+                           <label for="rut" >RUT</label>
+                            <input type="text" class="form-control" id="rut" placeholder="rut" pattern="[A-Z0-9]+" maxlength="" required >
+                         </li>
+                         <li>
+                            <label for="email" >E-mail</label>
+                            <input type="email" class="form-control" id="email" placeholder="correo electrónico" maxlength="30" required >
+                         </li>
+                         <li> <label for="asunto" >Asunto</label>
+                             <textarea id="asunto"> </textarea>
+                         </li>
+                         <li>
+                          <button type="submit">Enviar Datos</button>
+                         </li>
+                    </ul>
+                  </form>
+         </section>
+         <footer><span> <a href="contact.html" title="contact">¿Quieres saber más?</a></span></footer>
+    </body>
+</html>
