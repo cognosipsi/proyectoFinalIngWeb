@@ -4,6 +4,7 @@ import { CommunityScreenComponent } from './screens/community-screen/community-s
 import { ContactScreenComponent } from './screens/contact-screen/contact-screen.component';
 import { GoalScreenComponent } from './screens/goal-screen/goal-screen.component';
 import { HomeScreenComponent } from './screens/home-screen/home-screen.component';
+import { ListScreenComponent } from './screens/list-screen/list-screen.component';
 import { SolutionsScreenComponent } from './screens/solutions-screen/solutions-screen.component';
 
 const routes: Routes = [
@@ -13,6 +14,7 @@ const routes: Routes = [
   { path: 'solutions', component: SolutionsScreenComponent },
   { path: 'community', component: CommunityScreenComponent },
   { path: 'contact', component: ContactScreenComponent },
+  { path: 'list', component: ListScreenComponent },
 ];
 
 @NgModule({
