@@ -1,0 +1,14 @@
+@import "https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins:wght@200&display=swap";
+a.navbar-brand {
+  color: #fff;
+  font-size: 1.75em;
+  font-weight: bold;
+}
+
+li.nav-item {
+  margin-left: 10px;
+}
+
+nav li:hover, nav-item.visited {
+  background-color: #cfe2b5;
+}/*# sourceMappingURL=navbar.component.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../bootstrap/node_modules/node-sass/test/fixtures/include-files/file-processed-by-loader.scss","../bootstrap/node_modules/node-sass/test/fixtures/include-files/file-not-processed-by-loader.scss","chained-imports-with-custom-importer.css"],"names":[],"mappings":"AAAA;EACE,YCDiD;ACEnD","file":"chained-imports-with-custom-importer.css"}
