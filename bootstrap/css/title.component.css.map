@@ -1,0 +1,1 @@
+{"version":3,"sources":["../bootstrap/src/app/components/title/title.component.scss","title.component.css"],"names":[],"mappings":"AAAQ,2GAAA;AAER;EACI,2BAAA;EACA,eAAA;EACA,UAAA;EACA,iBAAA;EACA,kCAAA;ACAJ;;ADGA;EACM,qBAAA;EACA,YAAA;EACA,eAAA;EACA,YAAA;EACA,UAAA;EACA,WAAA;EACA,aAAA;EACD,eAAA;EACC,sBAAA;EACA,eAAA;EACA,kCAAA;ACAN","file":"title.component.css"}
