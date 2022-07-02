@@ -17,6 +17,7 @@ Instrucciones para instalación de Node.js y Angular:
 Instrucciones para ejecución:
 
 1. npm install
+2. npm run build-css
 3. npm run start (o también ng serve --open)
 
 
